@@ -57,3 +57,17 @@ O projeto utiliza as seguintes bibliotecas:
 - scikit-learn
 - jupyter
 
+### 🚀 Como Executar o Projeto
+
+Para executar este projeto e reproduzir as análises, siga as etapas abaixo:
+
+1. **Clone o Repositório**  
+   Clone este repositório para a sua máquina local usando o comando:
+   ```bash
+   git clone https://github.com/guibianck/Projeto-ML.git
+   
+2. **Inicialize o Jupyter Notebook**
+cd (caminho onde foi clonado o repositório)/Projeto-ML
+jupyter notebook
+
+3.Abra o arquivo Main.ipynb e execute a célula
