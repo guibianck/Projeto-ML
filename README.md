@@ -9,7 +9,7 @@ Este projeto utiliza dados de habitação para analisar e preparar informações
 - **Preparação para Modelagem**: Estruturar os dados para futuras aplicações de modelos preditivos.
 - **Visualizações Interativas**: Facilitar a compreensão dos dados com gráficos intuitivos.
 
-O projeto foi implementado em um Jupyter Notebook (`Housing.ipynb`), onde código, análises e visualizações estão integrados.
+O projeto foi implementado em um Jupyter Notebook (`Main.ipynb`), onde código, análises e visualizações estão integrados.
 
 ---
 
